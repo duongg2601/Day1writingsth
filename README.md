@@ -18,7 +18,7 @@ như kiểu các chiến lược một đội bóng sử dụng để chiến th
   Để thực sự hiểu điều cơ bản về mạng nơ-ron - điểm chung mà mỗi một mô hình AI đều có để cho phép nó hoạt động - ta cần hiểu 
 các lớp kích hoạt(activation layers).
 
-![image](https://github.com/user-attachments/assets/1d56e22c-beb4-4a03-858d-8fbec076133a)
+![Simple neural network](https://github.com/user-attachments/assets/1d56e22c-beb4-4a03-858d-8fbec076133a)
 
 
 
