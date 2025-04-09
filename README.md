@@ -36,11 +36,17 @@ các lớp kích hoạt(activation layers).
     
   Ngày nay, phần lớn mô hình mà xử lý văn bản là mô hình transformers-based. Ví dụ, ChatGPT, GPT viết tắt của Generative Pre-trained Transformer, đề cập đến kiến trúc mạng nơ-ron biến hình mà sinh ra văn bản. Tất cả các mô hình CNN, RNN, LSTM và Transformers là ví dụ của narrow AI (ý là từng mô hình AI sẽ làm tốt ở một mảng nhỏ đặc biệt). Vì vậy để đạt được general intelligence liên quan đến việc kết hợp những mô hình narrow AI để bắt chước hành vi của con người.
 
-+Code mẫuL Giải vấn đề với Explainable AI
++Code mẫu Giải vấn đề với Explainable AI
   Code này, ta sẽ tạo mô hình dựa trên 30 đặc tính. Ta cũng sẽ tìm 5 đặc tính mà quan trọng hơn cả trong việc phát hiện ung thư vú, dựa trên tập dữ liệu đó. Ta sẽ dùng mô hình machine learning glass box gọi là Explainable Boosting Machine.
 
   Fullcode![image](https://github.com/user-attachments/assets/689505da-10c4-43cd-8c91-2b5623741ffb)
 
++Kết luận: KAN (Kolmogorov-Arnold Netwworks)
+  Vì có explainable AI, ta có thể nghiên cứu dân số sử dụng phương pháp new data-driven.
+  Thay vì chỉ sử dụng thống kê truyền thống, khảo sát, và phân tích dữ liệu thông thường, ta có thể mô tả kết luận chính xác hơn khi sử dụng thư viện chương trình AI và một cơ sở dữ liệu hoặc file Excel.
+  Nhưng đó không phải cách duy nhất để xây dựng mô hình với explainable AI.
+  Tháng 4 2024, bài báo tên KAN:Kolmogorov-Arnold Networks được xuất bản đã làm thay đổi lĩnh vực này nhiều hơn nữa. KANs hứa hẹn ngày một chính xác hơn và dễ hiểu hơn những mô hình truyền thống và hiệu năng tốt hơn.
+  Nó cũng dễ dàng dể trực quan hóa và tương tác. 
   
   
 
